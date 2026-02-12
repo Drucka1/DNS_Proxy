@@ -1,0 +1,8 @@
+# Domaines bannis (un par ligne)
+# Les lignes vides et les commentaires (#) sont ignorés
+
+banned_namespace1
+banned_namespace2
+
+
+https://github.com/hagezi/dns-blocklists/tree/main
